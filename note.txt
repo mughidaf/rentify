@@ -1,0 +1,4 @@
+Jangan disebar, dah pusing ngoding ini gess
+
+- Extact folder Rentify - Tubes RPL
+- Extract Asset ke dalem folder Rentify - Tubes RPL(Pastiin jadi kebuat folder baru namanya Asset, isinya isi dari zip asset 1 sama zip asset 2)
